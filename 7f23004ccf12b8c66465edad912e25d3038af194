@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6925e0b2_09f4fed5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2021-07-05T23:33:07Z",
+      "side": 1,
+      "message": "This will not be necessary, as we will only disable the function in Settings, the other rules which continue even after the launch of a new Android must remain",
+      "revId": "7f23004ccf12b8c66465edad912e25d3038af194",
+      "serverId": "ab419b72-a699-4fba-91ed-29679b37fc49"
+    }
+  ]
+}
